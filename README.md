@@ -8,8 +8,13 @@ A desktop CRUD application built with Java Swing and MySQL for efficient student
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots here -->
-*Coming soon - Add screenshots of your application*
+<img width="1230" height="742" alt="image" src="https://github.com/user-attachments/assets/b09dc058-8e8e-47ff-8f62-0e32dcb1b315" />
+<img width="1226" height="740" alt="image" src="https://github.com/user-attachments/assets/957f02e4-e4ba-4aec-99de-0382e1935794" />
+<img width="1225" height="734" alt="image" src="https://github.com/user-attachments/assets/d3097f26-de0d-4474-afbf-34f44f98546c" />
+<img width="1230" height="737" alt="image" src="https://github.com/user-attachments/assets/46f9f6eb-bb28-415c-a7e6-89755d335394" />
+<img width="1226" height="739" alt="image" src="https://github.com/user-attachments/assets/4f471d96-4c6d-499c-96f9-5e25eedb0e6a" />
+
+
 
 ## 🎯 Overview
 
